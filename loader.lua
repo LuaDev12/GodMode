@@ -1,4 +1,9 @@
-
+-- NotificationSender
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "🛡️ Script Notification";
+	Text = "🛡️ God Mode Script V.1.0";
+	Icon = "rbxthumb://type=Asset&id=71967665601624&w=150&h=150"})
+Duration = 15;
 
 -- 🛡️ God Mode GUI | Made by LuaDev
 
